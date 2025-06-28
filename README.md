@@ -1,0 +1,2 @@
+# Journal
+about daily record
